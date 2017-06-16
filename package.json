@@ -1,0 +1,12 @@
+{
+  "scripts":{
+    "format" : "prettier --write --no-semi *.js",
+    "start" : "node index.js"
+  },
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.4.4"
+  }
+}
